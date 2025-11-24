@@ -45,7 +45,7 @@ yet 4 data used in the main text of ... are
   
 * S085.csv
   
-and are put in the root repository. Any other data from the folder "structural_connectivity_matrices" can be easily implemented, and is explained in the next section.
+and are put in the root directory. Any other data from the folder "structural_connectivity_matrices" can be easily implemented, and is explained in the next section.
 
 Also, 
 
