@@ -29,7 +29,7 @@ $ git clone "git@github.com:Weiwei-Su112/Adaptive-LASSO-for-higher-order-oscilla
 or HTTPS, etc..
 
 ## Data 
-In courtesy of [Škoch, A. et al.](https://doi.org/10.1038/s41597-022-01596-90), in the subsection "Application to a real-world network" of ... we tested on the structural connectivity matrices of human brain.
+By courtesy of [Škoch, A. et al.](https://doi.org/10.1038/s41597-022-01596-90), in the subsection "Application to a real-world network" of ... we tested on the structural connectivity matrices of human brain.
 
 The data is mainly in the folder 
 
