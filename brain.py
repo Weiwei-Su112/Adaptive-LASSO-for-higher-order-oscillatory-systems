@@ -283,23 +283,23 @@ pkl_ols = base_path + "ols.pkl"
 pkl_lasso = base_path + "lasso.pkl"
 pkl_ada = base_path + "ada.pkl"
 
-# with open(pkl_ols, "wb") as f:
-#     pickle.dump(ols_results, f)
-#
-# with open(pkl_lasso, "wb") as f:
-#     pickle.dump(lasso_results, f)
-#
-# with open(pkl_ada, "wb") as f:
-#     pickle.dump(ada_results, f)
+with open(pkl_ols, "wb") as f:
+    pickle.dump(ols_results, f)
 
-with open("../../Fig5data/test/S026_2/ols.pkl", "rb") as f:
-    ols_results = pickle.load(f)
+with open(pkl_lasso, "wb") as f:
+    pickle.dump(lasso_results, f)
 
-with open("../../Fig5data/test/S026_2/lasso.pkl", "rb") as f:
-    lasso_results = pickle.load(f)
+with open(pkl_ada, "wb") as f:
+    pickle.dump(ada_results, f)
 
-with open("../../Fig5data/test/S026_2/ada.pkl", "rb") as f:
-    ada_results = pickle.load(f)
+# with open("../../Fig5data/test/S026_2/ols.pkl", "rb") as f:
+#     ols_results = pickle.load(f)
+# 
+# with open("../../Fig5data/test/S026_2/lasso.pkl", "rb") as f:
+#     lasso_results = pickle.load(f)
+# 
+# with open("../../Fig5data/test/S026_2/ada.pkl", "rb") as f:
+#     ada_results = pickle.load(f)
 
 mse_ada = model_.mse_and_r2_combined(ada_results)[0]
 mse_lasso = model_.mse_and_r2_combined(lasso_results)[0]
