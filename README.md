@@ -10,35 +10,37 @@ modules:
 
   essentials: 
   
-  scipy
+  * scipy
   
-  matplotlib
+  * matplotlib
   
-  numpy
+  * numpy
   
-  random
+  * random
 
-  statsmodels (0.14.0)
+  * pandas
 
-  skglm (optional, not necessary to be implemented for all examples in this code)
+  * statsmodels (0.14.0)
+
+  * skglm (optional, not necessary to be implemented for all examples in this code)
   
-  scikit-learn (sklearn)
+  * scikit-learn (sklearn)
 
   visualizations: 
   
-  typing
+  * typing
   
-  tabulate
+  * tabulate
   
-  datetime
+  * datetime
   
-  time
+  * time
 
   others:
   
-  csv
+  * csv
   
-  os
+  * os
   
 ## Getting started
 This is free to clone through SSH: 
