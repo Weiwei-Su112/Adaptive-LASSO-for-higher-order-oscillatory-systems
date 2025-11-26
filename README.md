@@ -99,9 +99,7 @@ The executive scripts:
 * binomial_test.py
   corresponds to Table 1 and Table 2 in ...
   
-* brain.py & fig4_fig5.py
-  
-  corresponds to Fig. 5 and Table 5 in ....
+* brain.py & fig4_fig5.py corresponds to Fig. 5 and Table 5 in ....
 
   To change the data usage, at Line 171 it is free to change S0XX.csv into any data you would like to test in the folder "structural_connectivity_matrices"
 
