@@ -22,10 +22,10 @@ modules:
 
   * statsmodels (0.14.0)
 
-  * skglm (optional, not necessary to be implemented for all examples in this code)
-  
   * scikit-learn (sklearn)
 
+  * skglm (optional, not necessary to be implemented for all examples in this code)
+  
   visualizations: 
   
   * typing
