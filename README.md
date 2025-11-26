@@ -8,7 +8,7 @@ This program is accompanyed with ... as the supplementary code material, and is 
 Python3 (3.11.x, also tested on 3.9.x and 3.10.x)
 modules:
 
-  typing
+  essentials: 
   
   scipy
   
@@ -17,22 +17,28 @@ modules:
   numpy
   
   random
+
+  statsmodels (0.14.0)
+
+  skglm (optional, not necessary to be implemented for all examples in this code)
   
   scikit-learn (sklearn)
+
+  visualizations: 
+  
+  typing
   
   tabulate
-  
-  statsmodels (0.14.0)
   
   datetime
   
   time
+
+  others:
   
   csv
   
   os
-  
-  skglm (optional, not necessary to be implemented for all examples in this code)
   
 ## Getting started
 This is free to clone through SSH: 
