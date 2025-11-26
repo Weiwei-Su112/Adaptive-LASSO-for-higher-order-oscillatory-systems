@@ -7,18 +7,31 @@ This program is accompanyed with ... as the supplementary code material, and is 
 ## Requirement
 Python3 (3.11.x, also tested on 3.9.x and 3.10.x)
 modules:
+
   typing
+  
   scipy
+  
   matplotlib
+  
   numpy
+  
   random
+  
   scikit-learn (sklearn)
+  
   tabulate
+  
   statsmodels (0.14.0)
+  
   datetime
+  
   time
+  
   csv
+  
   os
+  
   skglm (optional, not necessary to be implemented for all examples in this code)
   
 ## Getting started
