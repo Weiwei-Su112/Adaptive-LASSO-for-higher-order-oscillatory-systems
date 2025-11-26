@@ -107,7 +107,7 @@ All these scripts are able to run via "python3 xxx.py" without further parsing p
 
 All parameters are controlled directly inside the executive scripts directly. 
 
-## Licence
+## License
 MIT
 
 Please contact [Ryota Kobayashi](http://www.hk.k.u-tokyo.ac.jp/r-koba/en/contact.html) if you want to use the code for commercial purposes.
