@@ -2,7 +2,11 @@
 This code includes the linear regression solver (Adaptive LASSO, also LASSO and OLS) and simulation for the pairwise and higher order oscillatory systems. 
 
 ## Outline
-This program is accompanyed with ... as the supplementary code material, and is able to generate all graph and table data presented in the context. 
+This program is accompanyed with 
+
+Su, W., Hata, S., Kori, H. et al. Distinguishing pairwise and higher-order interactions in coupled oscillators from time series. Commun Phys 9, 38 (2026).
+
+(later referred as "the paper") as the supplementary code material, and is able to generate all graph and table data presented in the context. 
 
 ## Requirement
 Python3 (3.11.x, also tested on 3.9.x and 3.10.x)
@@ -50,11 +54,7 @@ $ git clone "git@github.com:Weiwei-Su112/Adaptive-LASSO-for-higher-order-oscilla
 or HTTPS, etc..
 
 ## Data 
-By courtesy of [Škoch, A. et al.](https://doi.org/10.1038/s41597-022-01596-90), in the subsection "Application to a real-world network" of paper
-
-Su, W., Hata, S., Kori, H. et al. Distinguishing pairwise and higher-order interactions in coupled oscillators from time series. Commun Phys 9, 38 (2026).
-
-(later referred as "the paper") we tested on the structural connectivity matrices of human brain.
+By courtesy of [Škoch, A. et al.](https://doi.org/10.1038/s41597-022-01596-90), in the subsection "Application to a real-world network" of the paper, we tested on the structural connectivity matrices of human brain.
 
 The data is mainly in the folder 
 
