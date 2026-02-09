@@ -6,7 +6,7 @@ This program is accompanyed with
 
 Su, W., Hata, S., Kori, H. et al. Distinguishing pairwise and higher-order interactions in coupled oscillators from time series. Commun Phys 9, 38 (2026).
 
-(later referred as "the paper") as the supplementary code material, and is able to generate all graph and table data presented in the context. 
+(later referred as "the paper") as the supplementary code material, and is able to generate all graph and table data presented in the manuscript. 
 
 ## Requirement
 Python3 (3.11.x, also tested on 3.9.x and 3.10.x)
