@@ -54,13 +54,13 @@ By courtesy of [Škoch, A. et al.](https://doi.org/10.1038/s41597-022-01596-90),
 
 Su, W., Hata, S., Kori, H. et al. Distinguishing pairwise and higher-order interactions in coupled oscillators from time series. Commun Phys 9, 38 (2026).
 
-we tested on the structural connectivity matrices of human brain.
+(later referred as "the paper") we tested on the structural connectivity matrices of human brain.
 
 The data is mainly in the folder 
 
 * structural_connectivity_matrices
 
-yet 4 data used in the main text of ... are
+yet 4 data used in the main text of the paper are
 
 * S038.csv
   
@@ -89,21 +89,21 @@ DO NOT run this script directly.
 The executive scripts: 
 
 * Fig_1.py
-  corresponds to the Fig. 1 in ...
+  corresponds to the Fig. 1 in the paper
   
 * Fig_2.py
-  corresponds to the Fig. 2 in ...
+  corresponds to the Fig. 2 in the paper
   
 * Fig_3.py
-  corresponds to the Fig. 3 and Supp. 1 in ...
+  corresponds to the Fig. 3 and Supp. 1 in the paper
   
 * Fig_4.py
-  corresponds to the Fig. 4, Table 3, and Table 4 in ...
+  corresponds to the Fig. 4, Table 3, and Table 4 in the paper
   
 * binomial_test.py
-  corresponds to Table 1 and Table 2 in ...
+  corresponds to Table 1 and Table 2 in the paper
   
-* brain.py & fig4_fig5.py corresponds to Fig. 5 and Table 5 in ....
+* brain.py & fig4_fig5.py corresponds to Fig. 5 and Table 5 in the paper.
 
   To change the data usage, at Line 171 it is free to change S0XX.csv into any data you would like to test in the folder "structural_connectivity_matrices"
 
